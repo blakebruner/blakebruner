@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
-<h5 align="center">I'm a self taught fullstack developer building random projects that interest me.</h5>
+<h4 align="center">I'm a self taught fullstack developer building random projects that interest me.</h4>
 
 ---
 
