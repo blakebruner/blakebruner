@@ -7,12 +7,7 @@
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
-</p>
-
-#### 🚀 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" alt="Languages" />
 </p>
 
 #### 🗄️ Databases
