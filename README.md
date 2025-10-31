@@ -15,19 +15,9 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend" />
 </p>
 
-#### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-</p>
-
 #### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite" alt="Databases" />
-</p>
-
-#### 🔧 DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,azure,grafana,linux" alt="DevOps & Tools" />
 </p>
 
 ---
