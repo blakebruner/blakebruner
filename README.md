@@ -3,14 +3,12 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages
+### 💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react" alt="Languages" />
 </p>
 
-#### 🗄️ Databases
+### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite" alt="Databases" />
 </p>
